@@ -1,0 +1,17 @@
+.Characters {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  li {
+    width: 25vw;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+  }
+
+  img {
+    width: 100%;
+    margin: auto;
+  }
+}
